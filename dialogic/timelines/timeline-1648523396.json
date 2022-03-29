@@ -1,0 +1,40 @@
+{
+	"events": [
+		{
+			"background": "res://dialogic/timelines/Present/present_bg_small.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hola... soy Leyla.\n¡Vamos a ver cómo sale esta mierda!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648523396.json",
+		"name": "Test"
+	}
+}
