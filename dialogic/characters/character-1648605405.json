@@ -1,0 +1,21 @@
+{
+	"color": "#ffe39233",
+	"description": "La que fue desplazada de su pueblo y vende tintos para vivir.",
+	"display_name": "Marta",
+	"display_name_bool": true,
+	"id": "character-1648605405.json",
+	"mirror_portraits": false,
+	"name": "Marta",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/Marta/sprites/default.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

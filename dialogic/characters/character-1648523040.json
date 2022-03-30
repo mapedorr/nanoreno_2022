@@ -1,6 +1,6 @@
 {
 	"color": "#ff3bcfc5",
-	"description": "Daughter of Álvaro.",
+	"description": "Hija de Álvaro.",
 	"display_name": "Leyla",
 	"display_name_bool": true,
 	"id": "character-1648523040.json",
@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://dialogic/characters/Leyla/sprites/temp.png"
+			"path": "res://dialogic/characters/Leyla/sprites/default.png"
 		}
 	],
-	"scale": 100,
+	"scale": 65,
 	"theme": ""
 }

@@ -1,0 +1,21 @@
+{
+	"color": "#ff5794b9",
+	"description": "Criada de Isabela y amante de Fernando.",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1648605521.json",
+	"mirror_portraits": false,
+	"name": "Carmen",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/Carmen/sprites/default.png"
+		}
+	],
+	"scale": 65,
+	"theme": ""
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ffe3cc33",
+	"description": "Mujer adinerada y noble.",
+	"display_name": "Isabela",
+	"display_name_bool": true,
+	"id": "character-1648605484.json",
+	"mirror_portraits": false,
+	"name": "Isabela",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/Isabela/sprites/default.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

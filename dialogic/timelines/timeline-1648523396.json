@@ -2,12 +2,44 @@
 	"events": [
 		{
 			"background": "res://dialogic/timelines/Present/present_bg_small.png",
-			"event_id": "dialogic_021"
+			"event_id": "dialogic_021",
+			"fade_duration": 1
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
 		},
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hola.\nSoy Marta.\nVendo tintos y chucherías de mi carrito de chucherías."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
 			"character": "character-1648523040.json",
@@ -16,8 +48,8 @@
 			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
@@ -29,7 +61,82 @@
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hola... soy Leyla.\n¡Vamos a ver cómo sale esta mierda!"
+			"text": "Y yo soy Leyla.\nUna chica lo más de gomela.\n\nPero me gusta resto el tinto."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Si quiere le vendo un tintico."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Bueno pues hasta sí. ¿De cuál tiene?"
+		},
+		{
+			"choice": "Oscuro",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pues le ofrezco uno bien oscuro.\nComo el corazón de los hombres."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bueno sí. Uno de esos."
+		},
+		{
+			"choice": "Clarito",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Le puedo dar uno bien clarito para que no le caiga pesado.\nAlgo para pasar las ansias."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No no no.\nYo quiero algo bien fuerte.\n\nMejor deme uno oscuro."
+		},
+		{
+			"choice": "Endulzado con panela",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Le puedo dar uno endulzadito con panela.\nPara que se le alegre la tarde."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, gracias. Prefiero que me rompan a pata.\n\nMás bien deme uno oscuro.\nQue tengo sueño y quiero espavilar."
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
