@@ -14,6 +14,26 @@
 		{
 			"name": "Default",
 			"path": "res://dialogic/characters/Carmen/sprites/default.png"
+		},
+		{
+			"name": "Angry",
+			"path": "res://dialogic/characters/Carmen/sprites/angry.png"
+		},
+		{
+			"name": "Mean",
+			"path": "res://dialogic/characters/Carmen/sprites/mean.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://dialogic/characters/Carmen/sprites/sad.png"
+		},
+		{
+			"name": "Sorry",
+			"path": "res://dialogic/characters/Carmen/sprites/sorry.png"
+		},
+		{
+			"name": "Surprised",
+			"path": "res://dialogic/characters/Carmen/sprites/surprised.png"
 		}
 	],
 	"scale": 65,

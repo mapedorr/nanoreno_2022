@@ -1,0 +1,122 @@
+{
+	"events": [
+		{
+			"background": "res://dialogic/timelines/Past/past_bg_small.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "¡Carmen!\n¡Carmen!\nVenga paracá\n¡Rápido rápido!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Dígame señora Isabela"
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "¿Por qué se demoró tanto?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sorry",
+			"text": "Estaba con su esposo"
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "¿Con quién?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Con el señor Fernando\nDisculpe el atrevimiento"
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "No debería disculparla"
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Evil",
+			"text": "Debería mandarla a colgar\nEso es lo que tendría yo que hacer"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¡Oh!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Mentiraaaaas\nSi hago eso quién me va a cortar las uñas y a limpiarme todo el reguero"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648693347.json",
+		"name": "TestPast"
+	}
+}

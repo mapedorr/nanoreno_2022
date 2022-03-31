@@ -14,8 +14,28 @@
 		{
 			"name": "Default",
 			"path": "res://dialogic/characters/Marta/sprites/default.png"
+		},
+		{
+			"name": "Amenable",
+			"path": "res://dialogic/characters/Marta/sprites/amenable.png"
+		},
+		{
+			"name": "Evil",
+			"path": "res://dialogic/characters/Marta/sprites/evil.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://dialogic/characters/Marta/sprites/sad.png"
+		},
+		{
+			"name": "Surprised",
+			"path": "res://dialogic/characters/Marta/sprites/surprised.png"
+		},
+		{
+			"name": "Upset",
+			"path": "res://dialogic/characters/Marta/sprites/upset.png"
 		}
 	],
-	"scale": 100,
+	"scale": 90,
 	"theme": ""
 }

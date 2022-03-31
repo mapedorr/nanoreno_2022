@@ -83,6 +83,7 @@ _global_script_class_icons={
 config/name="NaNoRenO 2022"
 config/description="Our entry for NaNoRenO 2022. An interactive novel based on the short story Odio desde la otra vida (Hate from the afterlife), by writer Roberto Arlt."
 run/main_scene="res://src/Main.tscn"
+boot_splash/bg_color=Color( 0, 0, 0, 1 )
 config/icon="res://project_icon.png"
 
 [display]
@@ -97,6 +98,10 @@ window/stretch/aspect="keep"
 [editor_plugins]
 
 enabled=PoolStringArray( "res://addons/dialogic/plugin.cfg" )
+
+[gui]
+
+theme/custom_font="res://addons/dialogic/Example Assets/Fonts/DefaultFont.tres"
 
 [input]
 

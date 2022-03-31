@@ -14,8 +14,28 @@
 		{
 			"name": "Default",
 			"path": "res://dialogic/characters/Isabela/sprites/default.png"
+		},
+		{
+			"name": "Amenable",
+			"path": "res://dialogic/characters/Isabela/sprites/amenable.png"
+		},
+		{
+			"name": "Evil",
+			"path": "res://dialogic/characters/Isabela/sprites/evil.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://dialogic/characters/Isabela/sprites/sad.png"
+		},
+		{
+			"name": "Surprised",
+			"path": "res://dialogic/characters/Isabela/sprites/surprised.png"
+		},
+		{
+			"name": "Upset",
+			"path": "res://dialogic/characters/Isabela/sprites/upset.png"
 		}
 	],
-	"scale": 100,
+	"scale": 85,
 	"theme": ""
 }

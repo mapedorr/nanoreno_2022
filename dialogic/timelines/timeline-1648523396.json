@@ -66,7 +66,7 @@
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Amenable",
 			"text": "Si quiere le vendo un tintico."
 		},
 		{
@@ -88,7 +88,7 @@
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Amenable",
 			"text": "Pues le ofrezco uno bien oscuro.\nComo el corazón de los hombres."
 		},
 		{
@@ -96,6 +96,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Bueno sí. Uno de esos."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
 		},
 		{
 			"choice": "Clarito",
@@ -113,8 +117,12 @@
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Sorry",
 			"text": "No no no.\nYo quiero algo bien fuerte.\n\nMejor deme uno oscuro."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
 		},
 		{
 			"choice": "Endulzado con panela",
@@ -132,8 +140,12 @@
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Angry",
 			"text": "No, gracias. Prefiero que me rompan a pata.\n\nMás bien deme uno oscuro.\nQue tengo sueño y quiero espavilar."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
 		},
 		{
 			"event_id": "dialogic_013"

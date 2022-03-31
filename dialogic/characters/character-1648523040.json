@@ -14,6 +14,26 @@
 		{
 			"name": "Default",
 			"path": "res://dialogic/characters/Leyla/sprites/default.png"
+		},
+		{
+			"name": "Angry",
+			"path": "res://dialogic/characters/Leyla/sprites/angry.png"
+		},
+		{
+			"name": "Mean",
+			"path": "res://dialogic/characters/Leyla/sprites/mean.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://dialogic/characters/Leyla/sprites/sad.png"
+		},
+		{
+			"name": "Sorry",
+			"path": "res://dialogic/characters/Leyla/sprites/sorry.png"
+		},
+		{
+			"name": "Surprised",
+			"path": "res://dialogic/characters/Leyla/sprites/surprised.png"
 		}
 	],
 	"scale": 65,
