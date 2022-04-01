@@ -1,0 +1,307 @@
+{
+	"events": [
+		{
+			"background": "res://dialogic/timelines/Past/past_bg_small.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Amenable",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Me encanta esta calle.\nTodas las casas quedaron tan preciosas.\n¿Tú que opinas Carmen?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sí, mi señora. Lo es."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahora era Carmen, no Leyla."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "Mi padre trabajó como albañil en algunas de ellas."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "No me digas. ¡Este mundo es tan pequeño!\nMi padre, que en paz descanse, fue uno de los socios que financió la construcción de este barrio y muchos otros en el pueblo."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Entonces mi padre le sirvió al suyo... tal como yo le sirvo a usted."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Así es Carmen. Así es.\nEste mundo es tan pequeño."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2,
+			"waiting_skippable": true
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Señora Isabela."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "¿Si?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Es que..."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "¿Qué pasa Carmen?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Me da tanta vergüenza."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Sabes que a pesar de servirme puedes contar conmigo. Siempre ha sido así."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Es que se trata otra vez de mi hermano."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¿Le ha pasado algo?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No aún, pero le pasará si no hago algo. Ha tenido problemas con unos matones y ahora juraron que le matarían si no les paga lo que perdió en una apuesta."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Y quieres que te preste dinero para pagar la deuda y salvarle la vida, ¿es eso Carmen?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sí mi señora.\nMe da tantísima vergüenza... no se imagina cómo me siento. Quisiera que la tierra me trague ahora mismo."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Jajajaja. Qué cosas dices Carmen.\n¿Cuándo se cumple el plazo para hacer el pago?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "En dos días señora."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "¿Y cómo lo harán?\nPorque supongo que no se lo darás a tu hermano para que él lo lleve."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Claro que no.\nEl muy tonto seguro lo apostaría para intentar duplicarlo."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "Eso pensé."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Tendré que llevarlo al campo de uchuvas que queda a 30 minutos de la hacienda."
+		},
+		{
+			"animation": "heartbeat.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Surprised",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Como ya te lo dije, eres la sirvienta en quien más confío... eres casi como una amiga."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Te ayudaré con una condición."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Claro que sí, lo que usted diga."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "Yo te acompañaré y juntas entregaremos el dinero."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "¡No, señora! ¡Es una locura! Podrían hacerle daño.\nCon esa gente nunca se sabe."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "No pasará nada. Le pediré a mi esposo que envíe a algunos de sus muchachos para que nos vigilen."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Últimamente he sentido que mi vida necesita emociones más fuertes... y esta podría ser la oportunidad."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Mataremos dos pájaros de un tiro."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Pero mi señora..."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "Esa es mi única condición."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...\nEstá bien. Si usted así lo quiere."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1,
+			"waiting_skippable": true
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "No me alcanzará la vida para pagarle todo lo que ha hecho por mí."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648846355.json",
+		"name": "Past"
+	}
+}

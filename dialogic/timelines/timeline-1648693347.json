@@ -5,6 +5,12 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soy el narrador. Con tremenda voz en off.\nMuaaaajajajajajajaja."
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,

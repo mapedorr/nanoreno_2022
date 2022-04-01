@@ -1,0 +1,49 @@
+{
+	"events": [
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¡Espera espera! No lo hagas. Contaré todo. Delataré a mi padre."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Evil",
+			"text": "Mientes."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "Te descubrirán. Mi padre no descansará hasta encontrarte."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ya me quitaron todo lo que más me importaba. Lo que sea que me hagan no le devolverá su hija a Álvaro."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Por favor, piénsalo."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Llevo pensándolo 10 años."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648848137.json",
+		"name": "Revenge"
+	}
+}

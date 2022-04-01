@@ -1,0 +1,124 @@
+{
+	"events": [
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Por favor, Marta. No lo hagas."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Evil",
+			"text": "Tenemos una cuenta pendiente desde la otra vida. Y también en esta."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Pero yo no hice nada. No puedes responsabilizarme de lo que mi padre hizo a tu familia."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Evil",
+			"text": "No se trata de eso.\nSe trata de hacerle pagar con sufrimiento... con uno como el que yo sentí."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "..."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marta tomó el cuchillo que guardaba en su mochila y se lo puso a Leyla en el pecho.\nPero no fue capaz de enterrárselo."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "No puedo hacerlo."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "..."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Si te mato, sólo conseguiré que en nuestra próxima otra vida quede una muerte por vengar.\nY... en últimas nada me devolverá a mi familia.\nDe nada servirá vengar en esta vida lo que le hicieron a Isabela."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Gracias a dios entras en razón Marta."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "¿Dios? ¿De qué hablas? Ese nada tiene que ver aquí.\nLo mejor será que me vaya lejos de este lugar, de este país.\nNo volveré mientras tu padre siga con vida."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Puedo darte algo a cambio por perdonarme la vida."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No quiero tener nada tuyo, nada que venga de ese hombre."
+		},
+		{
+			"animation": "5-fade_out_down.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marta subió a su coche y puso el motor en marcha.\nLeyla aún no podía moverse."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "El efecto de parálisis terminará pronto.\nPiensa bien las cosas. Un hombre no debería tener tanto poder."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648851181.json",
+		"name": "Forgiveness"
+	}
+}

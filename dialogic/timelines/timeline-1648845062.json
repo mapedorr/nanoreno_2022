@@ -1,0 +1,261 @@
+{
+	"events": [
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "No es nada. Es sólo que su rostro me resulta familiar."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Pues seguro se equivoca. Usted no me suena de nada."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "Seguramente.\n..."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¿No es usted de la farándula? ¿o tal vez la hija o esposa de alguien famoso?"
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Pues podría decirse que soy hija de alguien muy famoso."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "¿Y quién es? Si se puede saber."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "La verdad es que no me gusta quedarme con la duda."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Supongo que se puede saber.\nMi padre es Álvaro Muribe."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¡Oh! Claro claro. Ahora veo de dónde me sonaba."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marta logró ocultar su odio tras una sonrisa.\nNo podía creer que frente a ella, servida en bandeja de plata, estuviera la hija del hombre culpable de que su vida se convirtiera en un infierno.\nÉl, el hombre que con sus mercenarios acribilló a su hermano menor, su madre y su padre para quedarse con sus tierras."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "¿Puedo decirle algo?"
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "¿Y ahora qué pasó?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Se ve usted preocupada. Como si algo la atormentara."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "¿De qué me habla?"
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leyla estaba sorprendida, pues era cierto. Desde hace días una idea no dejaba de atormentarla.\n¿Tan mal estaría que se notaba incluso con el maquillaje?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Bueno, si no estoy en lo cierto le pido disculpas.\nPero si de algo le sirve, puedo escucharla."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Ya. Claro."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Sorry",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "De repente Leyla sintió alivio. A lo mejor sería la oportunidad de encontrar algo de consuelo.\nContarle sus problemas a una desconocida no parecía algo tan descabellado.\nY la muchacha de los tintos había demostrado desde el inicio una actitud noble. Seguramente la escucharía.\nO a lo era la desesperación quien hablaba por ella."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Véndame otro tinto, por favor."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Claro que sí."
+		},
+		{
+			"animation": "5-fade_out_down.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1,
+			"waiting_skippable": true
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Aquí tiene."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "La verdad es que sí hay algo que me preocupa.\nY lleva varios días atormentándome."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Lo sé porque lo he visto.\nSobre su cabeza hay una nube negra de dilema."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¿Es una vidente?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Así es. Heredé esta habilidad de mi madre."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Nunca pensé que me toparía con una.\nSabe que por órdenes del gobierno personas como usted no deberían..."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Lo sé."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "Bueno. No pasa nada. Usted me ha caído bien."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Si me lo permite, le contaré lo que veo."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Está bien. Cuente."
+		},
+		{
+			"change_timeline": "timeline-1648845757.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648845062.json",
+		"name": "GainConfidence"
+	}
+}

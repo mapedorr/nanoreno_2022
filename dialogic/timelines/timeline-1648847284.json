@@ -1,0 +1,355 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Sad",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do... ¿dónde estoy? ¿Qué ha pasado?"
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hola, mi querida Isabela."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¿Francisco? ¿qué ha pasado?"
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Que hoy es el mejor día de mi vida."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No entiendo. ¿Qué ha pasado?"
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hoy concretaremos nuestro amor."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "¿Qué...?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Así es."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¿Carmen?... No entiendo nada... ¿Por qué estoy amarrada? ¿Qué hago aquí encerrada?"
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Has caído en nuestra trampa. Por eso estás amarrada. Por eso te hemos encerrado.\nY por eso, Francisco y yo, concretaremos nuestro amor."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "¿Una trampa?"
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Como sabrás, parte de tu fortuna me pertenece por ser tu esposo. Y como también sabrás, al ser hija única, TODA tu fortuna pasaría a mi poder si llegas a morir."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Francisco y yo hemos sido amantes por varios años y..."
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "¡No no no! Tienes que dejar que asimile las cosas de a poco.\nSé que te emocionas fácilmente, pero he tratado de enseñarte a controlar las emociones, a guardar la compostura."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lo siento... es la emoción. No pensé que el plan funcionaría."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "¿De qué demonios hablan?"
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Esto no puede estar pasando. Siempre he sido buena contigo Carmen.\nY he sido una esposa ejemplar Francisco.\n¿Por qué?"
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Porque te falta ambición, querida. Yo sí sabré cómo aprovechar la fortuna que dejaron tus padres."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y porque yo soy mejor mujer que tú. Sé cómo hacer feliz a este hombre de muchas maneras."
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Verás Isabela... Carmen es mucho más ambiciosa que tú, y eso me encanta.\nFue ella quien se acercó a mí.\nFue ella quien propuso que nos quedáramos con tu fortuna.\nY no imagino qué se le ocurrirá cuando nos hagamos con ella."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "Seguramente buscará cómo deshacerse de ti."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "En eso te equivocas. Amo a tu esposo y tengo muchos planes para ese dinero, y todos lo incluyen a él."
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Esto tiene que ser una pesadilla."
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, querida. La pesadilla aún no ha comenzado."
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Francisco y Carmen comenzaron a besarse.\nLuego se tiraron en la pequeña cama, y como animales locos, hicieron el amor varias veces.\nIsabela podía escuchar los resortes de la cama y los gemidos de placer de ambos.\nCuando terminaron, hubo un largo silencio.\nLuego Isabela escuchó golpes en la puerta."
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Espero que lo hayas disfrutado tanto como nosotros."
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Sad",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1648847372.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tenemos que irnos. Pero gracias por todo lo que nos dejarás, querida."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Vámonos."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Francisco y Carmen abandonaron el lugar.\nEra la pequeña cabaña que Isabela había mandado a construir hace unos años para alejarse de la hacienda y pasar tiempo a solas.\nCarmen se acercó a unos montones de tela y encendió un fósforo."
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "Ya es hora de que sea yo la señora de Francisco."
+		},
+		{
+			"animation": "5-fade_out_down.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahora la cabaña se quemaba, y Francisco y Carmen observaban."
+		},
+		{
+			"animation": "2-fade_in_up.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Evil",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605484.json",
+			"event_id": "dialogic_001",
+			"portrait": "Evil",
+			"text": "¡Malditos!\n¡Malditos sean!\n¡Los maldigo! ¡Juro que me vengaré desde el más allá!"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648847284.json",
+		"name": "Stake"
+	}
+}

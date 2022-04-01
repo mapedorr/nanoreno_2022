@@ -1,0 +1,149 @@
+{
+	"events": [
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "Hay un hombre muy poderoso.\nÉl la mira desde arriba, como si tuviera el control.\nY usted sabe que él pronto hará algo malo.\nAlgo que, de llegar a conocerse, los perjudicaría enormemente."
+		},
+		{
+			"animation": "heartbeat.gd",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Surprised",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leyla trataba de ocultar su expresión de asombro, pero le era sumamente difícil teniendo en cuenta la cantidad de precisiones que mencionaba la vidente."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "El lazo que les une es fuerte.\nTan fuerte que ha logrado mantenerse a través del tiempo. Una y otra vez han estado juntos. Y él siempre ha tenido más poder. Y usted siempre le ha seguido."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Por otro lado, si no cuenta lo que sabe, muchas personas se verán afectadas.\nY eso es lo que he visto a través de la nube negra en su cabeza."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Si usted quiere, puedo darle algo que le permitirá hacer un viaje al pasado.\nEstoy segura de que conocerlo le servirá."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "¡Claro! Ahí está el truco, ¿no?\nEso es lo que realmente querías. Venderme algo."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "Yo no le estoy pidiendo dinero, ni lo haré.\nSiempre que pueda ayudar a alguien lo haré.\nPero si no quiere mi ayuda, no insistiré."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leyla, como acorralada, vio aquella situación como una oportunidad para aclarar su mente... tal vez para dejar de sufrir por aquellos pensamientos."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Está bien. ¿De qué se trata?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Es una bebida. La traeré enseguida."
+		},
+		{
+			"animation": "5-fade_out_down.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1,
+			"waiting_skippable": true
+		},
+		{
+			"animation": "2-fade_in_up.gd",
+			"animation_length": 1,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Aquí está. Bébala lentamente.\nYo también beberé, pues sólo así podrá conectarse con el pasado."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648845757.json",
+		"name": "Vision"
+	}
+}

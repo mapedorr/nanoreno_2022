@@ -1,0 +1,136 @@
+{
+	"events": [
+		{
+			"background": "res://dialogic/timelines/Present/present_bg_small.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "Supe quién eras desde que te acercaste a mi negocio."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¿En otra vida fui la amante de mi padre? UAGH!"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "¡No, estúpida! Entonces eran otros.\nUstedes me asesinaron en otra vida, y en esta, tu padre fue el culpable de la muerte de mi hermano, mi madre y mi padre.\nSabes que lo que él quiere hacer nos perjudicará enormemente, y aún así tu egoísmo y la imposibilidad de dejar tu estilo de vida te hacen dudar acerca de si deberías o no contarlo al mundo."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "¡Es mi padre!"
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Si cuento lo que sé no sólo lo perderemos todo, sino que también irá a la cárcel."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Upset",
+			"text": "¡Él debería estar preso por lo que le hizo a Sagrado y otros pueblos!"
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Evil",
+			"text": "Aquí estás. Aún incapaz de moverte por el efecto secundario de lo que te di a beber.\nPodría acabar con tu vida y así vengar la muerte de mi familia. Que tu padre sepa cómo se siente perder a alguien.\nPodría acabar con tu vida y cumplir así la promesa que hizo Isabela... la promesa que hice en mi otra vida.\nDurante varias vidas nos hemos destruido. ¿Por qué no poner otro eslabón a la cadena, cierto?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Asesinar a Leyla",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648848137.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Dejar vivir a Leyla",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648851181.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648847904.json",
+		"name": "Promise"
+	}
+}

@@ -60,9 +60,6 @@ margin_top = 399.0
 margin_right = 455.0
 margin_bottom = 560.0
 script = ExtResource( 4 )
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="ColorRect" type="ColorRect" parent="."]
 visible = false
@@ -139,9 +136,6 @@ margin_right = 51.0
 margin_bottom = 41.0
 texture = ExtResource( 3 )
 stretch_mode = 4
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="NextIndicatorContainer/NextIndicator"]
 autoplay = "Up and down"

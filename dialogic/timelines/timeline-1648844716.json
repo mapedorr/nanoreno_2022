@@ -1,0 +1,115 @@
+{
+	"events": [
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Veo que un pensamiento la atormenta."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "¿Eres vidente o qué?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Heredé esa habilidad de mi madre."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "¿Sabes que ahora mismo podría denunciarte para que te saquen a patadas de aquí, cierto?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Confío en que no lo hará."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "No sin recibir algo a cambio. Tengo más poder del que imagina."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Eso puedo verlo."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "¿Y entonces, qué me dará a cambio de guardar el secreto?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Amenable",
+			"text": "Le ayudaré a liberarse de aquello que la atormenta."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Eso no me vale..."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "¿Qué tal si me regala algo de su tienducha? Lo que yo quiera."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Debo vender esas cosas para poder comer."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Bueno, si no quiere negociar tendré que alertar a las autoridades."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "¡No! Por favor."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2,
+			"waiting_skippable": true
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad",
+			"text": "Está bien, le daré algo de mi tienda a cambio de su silencio."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Mean",
+			"text": "Eso... y además me ayudarás con el problema que ven tus ojos de bruja."
+		},
+		{
+			"change_timeline": "timeline-1648845757.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648844716.json",
+		"name": "TakeRisk"
+	}
+}
