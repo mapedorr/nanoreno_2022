@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mx_present.ogg-8bb91fe9414ac1cc54ea53945b8ed4c9.oggstr"
+
+[deps]
+
+source_file="res://src/audio/mx_present.ogg"
+dest_files=[ "res://.import/mx_present.ogg-8bb91fe9414ac1cc54ea53945b8ed4c9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

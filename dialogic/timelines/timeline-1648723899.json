@@ -5,6 +5,15 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://src/audio/mx_present.ogg",
+			"volume": 0
+		},
+		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
 			"wait_seconds": 1,

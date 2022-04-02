@@ -31,7 +31,7 @@ func _ready() -> void:
 	_btn_back.connect('pressed', self, '_hide_credits')
 	
 #	yield(get_tree().create_timer(0.5), 'timeout')
-#	goto_timeline('Test', 'Test')
+#	goto_timeline('Stake', 'Test')
 
 	_main_menu_anim.play('ShowMainMenu')
 
