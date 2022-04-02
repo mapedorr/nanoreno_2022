@@ -4,37 +4,37 @@
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "¡Espera espera! No lo hagas. Contaré todo. Delataré a mi padre."
+			"text": "Wait, wait! Don't do it. I'll spill everything. I will tell on my father."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Evil",
-			"text": "Mientes."
+			"text": "You lie!"
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "Te descubrirán. Mi padre no descansará hasta encontrarte."
+			"text": "They'll find you. My father won't stop until you're found."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ya me quitaron todo lo que más me importaba. Lo que sea que me hagan no le devolverá su hija a Álvaro."
+			"text": "I've already been stripped from everything that I cared for. Whatever they do to me, it won't bring back Álvaro's daughter."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Por favor, piénsalo."
+			"text": "Please, think it through!"
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Llevo pensándolo 10 años."
+			"text": "I have thought it through for ten years now."
 		},
 		{
 			"event_id": "dialogic_022",

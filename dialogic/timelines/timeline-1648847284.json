@@ -24,145 +24,151 @@
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Do... ¿dónde estoy? ¿Qué ha pasado?"
+			"text": "Whe... Where am I? What has happened?"
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hola, mi querida Isabela."
+			"text": "Hello, dereast Isabela."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "¿Francisco? ¿qué ha pasado?"
+			"text": "Francisco? What has happened?"
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Que hoy es el mejor día de mi vida."
+			"text": "It so happened that today is the best day of my life."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No entiendo. ¿Qué ha pasado?"
+			"text": "You confuse me. Is something the matter?"
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hoy concretaremos nuestro amor."
+			"text": "Today, we will consume our love."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "¿Qué...?"
+			"text": "What...?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Así es."
+			"text": "It is so."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "¿Carmen?... No entiendo nada... ¿Por qué estoy amarrada? ¿Qué hago aquí encerrada?"
+			"text": "Carmen...? I cannot follow... Whay am I bound? Why am I locked here? "
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Has caído en nuestra trampa. Por eso estás amarrada. Por eso te hemos encerrado.\nY por eso, Francisco y yo, concretaremos nuestro amor."
+			"text": "She still does not comprehend it's a trap, darling."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "¿Una trampa?"
+			"text": "A trap?"
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Como sabrás, parte de tu fortuna me pertenece por ser tu esposo. Y como también sabrás, al ser hija única, TODA tu fortuna pasaría a mi poder si llegas a morir."
+			"text": "Trap? What a hedious way of calling it. Let's call it a... happenstance.\nIf you were to accidentally die, guess who will inherit your fortune? Oh, what a lonely life with no siblings, or children. I will have no one to share my grievances with."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Francisco y yo hemos sido amantes por varios años y..."
+			"text": "Maybe only with a servant you have fancied over the years?"
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "¡No no no! Tienes que dejar que asimile las cosas de a poco.\nSé que te emocionas fácilmente, pero he tratado de enseñarte a controlar las emociones, a guardar la compostura."
+			"text": "No, no, no! Let her asimilate this bit by bit.\nI know you get thrilled easily, but emotions need to be controlled; keep your composture."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Lo siento... es la emoción. No pensé que el plan funcionaría."
+			"text": "I apologize... I feel... I did not presume the plan would work."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "¿De qué demonios hablan?"
+			"text": "What in the heavens are you talking about?"
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Esto no puede estar pasando. Siempre he sido buena contigo Carmen.\nY he sido una esposa ejemplar Francisco.\n¿Por qué?"
+			"text": "This cannot be happening.\nI have been good to you, Carmen. And I have been an exemplary wife, Francisco.\nWhy?"
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Porque te falta ambición, querida. Yo sí sabré cómo aprovechar la fortuna que dejaron tus padres."
+			"text": "You lack ambition, darling. Unlike you, I know how to take advantage of the fortune your parents left you."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Y porque yo soy mejor mujer que tú. Sé cómo hacer feliz a este hombre de muchas maneras."
+			"text": "And because I am a better woman than you will ever be. I know how to please this man in more ways than one...\nDon't forget that, Fran, dear."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Francisco nodded whole stroking her hair."
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Verás Isabela... Carmen es mucho más ambiciosa que tú, y eso me encanta.\nFue ella quien se acercó a mí.\nFue ella quien propuso que nos quedáramos con tu fortuna.\nY no imagino qué se le ocurrirá cuando nos hagamos con ella."
+			"text": "You see, Isabela... Carmen has what you lack.\nCharming, isn't it? She approached me. She let me privy to her darkest thoughts.\nI cannot grasp what will come to her once your fortune lands on our hands."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "Seguramente buscará cómo deshacerse de ti."
+			"text": "She will get rid of you."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "En eso te equivocas. Amo a tu esposo y tengo muchos planes para ese dinero, y todos lo incluyen a él."
+			"text": "That is where you go wrong. I love your husband and the plans I have for your money include him. "
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Esto tiene que ser una pesadilla."
+			"text": "This had better be a nightmare."
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No, querida. La pesadilla aún no ha comenzado."
+			"text": "No, darling. The nightmare hasn't even started yet."
 		},
 		{
 			"animation": "4-fade_out.gd",
@@ -189,13 +195,13 @@
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Francisco y Carmen comenzaron a besarse.\nLuego se tiraron en la pequeña cama, y como animales locos, hicieron el amor varias veces.\nIsabela podía escuchar los resortes de la cama y los gemidos de placer de ambos.\nCuando terminaron, hubo un largo silencio.\nLuego Isabela escuchó golpes en la puerta."
+			"text": "Francisco pushed his lips unto Carmen's. Moving to a nearby room.\nLike wild animals, they threw themselves unto the bed and made love several times.\nIsabela could hear the bead creaking alongside the moans both of them let out in pleasure.\nWhen it was over, a long silence erupted.\nThen Isabela heard a banging on the door."
 		},
 		{
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Espero que lo hayas disfrutado tanto como nosotros."
+			"text": "I hope you enjoyed our performance as much as we did."
 		},
 		{
 			"animation": "1-fade_in.gd",
@@ -227,19 +233,19 @@
 			"character": "character-1648847372.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Tenemos que irnos. Pero gracias por todo lo que nos dejarás, querida."
+			"text": "We need to leave. But thank you for all you're leaving us, my dear."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Vámonos."
+			"text": "Off now, honey."
 		},
 		{
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Francisco y Carmen abandonaron el lugar.\nEra la pequeña cabaña que Isabela había mandado a construir hace unos años para alejarse de la hacienda y pasar tiempo a solas.\nCarmen se acercó a unos montones de tela y encendió un fósforo."
+			"text": "Francisco and Carmen left the place.\nIt was the small cabin Isabela had petitioned years ago, to get away from the estate and spend time with herself.\nCarmen approached some bundles of fabric before letting a burning match fall unto them."
 		},
 		{
 			"animation": "4-fade_out.gd",
@@ -286,7 +292,7 @@
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "Ya es hora de que sea yo la señora de Francisco."
+			"text": "It was about time for me to become the Lady."
 		},
 		{
 			"animation": "5-fade_out_down.gd",
@@ -313,7 +319,7 @@
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ahora la cabaña se quemaba, y Francisco y Carmen observaban."
+			"text": "The cabin burnt while Francisco and Carmen watched from affar."
 		},
 		{
 			"animation": "2-fade_in_up.gd",
@@ -340,7 +346,7 @@
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Evil",
-			"text": "¡Malditos!\n¡Malditos sean!\n¡Los maldigo! ¡Juro que me vengaré desde el más allá!"
+			"text": "Dammned you! Dammned be all of you!\nI curse you!\nI will take my revenge from the beyond!"
 		},
 		{
 			"event_id": "dialogic_022",

@@ -4,25 +4,25 @@
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Por favor, Marta. No lo hagas."
+			"text": "Please, Marta. Don't do it."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Evil",
-			"text": "Tenemos una cuenta pendiente desde la otra vida. Y también en esta."
+			"text": "We have a debt to settle from the afterlife. And in this one as well."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Pero yo no hice nada. No puedes responsabilizarme de lo que mi padre hizo a tu familia."
+			"text": "But I didn't do anything. You can't make me resposible for what my father did to your family."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Evil",
-			"text": "No se trata de eso.\nSe trata de hacerle pagar con sufrimiento... con uno como el que yo sentí."
+			"text": "It's not about that.\nIt's about making him pay with suffering... with one as deep as my own."
 		},
 		{
 			"character": "character-1648523040.json",
@@ -34,13 +34,13 @@
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Marta tomó el cuchillo que guardaba en su mochila y se lo puso a Leyla en el pecho.\nPero no fue capaz de enterrárselo."
+			"text": "Marta took the knife she kept on her rucksack and pressed it against Leyla's chest.\nBut she wasn't able to pierce through."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "No puedo hacerlo."
+			"text": "I can't do it!"
 		},
 		{
 			"character": "character-1648523040.json",
@@ -52,31 +52,31 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Si te mato, sólo conseguiré que en nuestra próxima otra vida quede una muerte por vengar.\nY... en últimas nada me devolverá a mi familia.\nDe nada servirá vengar en esta vida lo que le hicieron a Isabela."
+			"text": "If I kill you, I will only justify another murder to avenge.\nAnd... my family won't come back.\nThis life won't atone for what was done to Isabela."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Gracias a dios entras en razón Marta."
+			"text": "Thanks God you've heard reason, Marta."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "¿Dios? ¿De qué hablas? Ese nada tiene que ver aquí.\nLo mejor será que me vaya lejos de este lugar, de este país.\nNo volveré mientras tu padre siga con vida."
+			"text": "God? What are you talking about? That guy has nothing to do here.\nIt's best I leave this country for good.\nI won't come back until your father knows death."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Puedo darte algo a cambio por perdonarme la vida."
+			"text": "I can give you something in return for saving my life."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No quiero tener nada tuyo, nada que venga de ese hombre."
+			"text": "I don't want anything coming from you, nothing to do with that man."
 		},
 		{
 			"animation": "5-fade_out_down.gd",
@@ -103,13 +103,13 @@
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Marta subió a su coche y puso el motor en marcha.\nLeyla aún no podía moverse."
+			"text": "Marta got inside her car and made the engine start.\nLeyla couldn't move yet."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "El efecto de parálisis terminará pronto.\nPiensa bien las cosas. Un hombre no debería tener tanto poder."
+			"text": "Effects from the paralizing drug would end soon.\nThink it over. A man should harness no such power."
 		},
 		{
 			"event_id": "dialogic_022",

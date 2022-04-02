@@ -4,85 +4,85 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Veo que un pensamiento la atormenta."
+			"text": "I see a thought tormenting you."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "¿Eres vidente o qué?"
+			"text": "Are you a seer or something?"
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Heredé esa habilidad de mi madre."
+			"text": "Inherited it from my mother."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "¿Sabes que ahora mismo podría denunciarte para que te saquen a patadas de aquí, cierto?"
+			"text": "You know I can report you and get you kicked out, don't you?"
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Confío en que no lo hará."
+			"text": "I trust you won't."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "No sin recibir algo a cambio. Tengo más poder del que imagina."
+			"text": "True. Not without anything to gain from it.\nI have more power than you can fathom."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Eso puedo verlo."
+			"text": "That I can see..."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "¿Y entonces, qué me dará a cambio de guardar el secreto?"
+			"text": "So? What will it be? The price of my secrecy."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Le ayudaré a liberarse de aquello que la atormenta."
+			"text": "I will bring you solace from that which haunts you."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "Eso no me vale..."
+			"text": "That isn't worth a dime..."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "¿Qué tal si me regala algo de su tienducha? Lo que yo quiera."
+			"text": "What if you gave me something from this... petty shop you own? Whatever I want."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Debo vender esas cosas para poder comer."
+			"text": "These things help pay for my food..."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "Bueno, si no quiere negociar tendré que alertar a las autoridades."
+			"text": "Okay, if business is not in your nature, I'll have to alert authorities."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "¡No! Por favor."
+			"text": "No! Please."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -94,13 +94,13 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Está bien, le daré algo de mi tienda a cambio de su silencio."
+			"text": "Alright, I'll give you something for your silence."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Mean",
-			"text": "Eso... y además me ayudarás con el problema que ven tus ojos de bruja."
+			"text": "That... and you'll help with whatever your witch eyes can see."
 		},
 		{
 			"change_timeline": "timeline-1648845757.json",

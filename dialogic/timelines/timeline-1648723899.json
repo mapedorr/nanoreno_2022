@@ -35,7 +35,7 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hoy no han ido muy bien las ventas.\nSi la vaina no mejora en las próximas horas, este será otro día de pérdidas."
+			"text": "Sales haven't been great today.\nIf things don't pick up in the next few hours, it'll be another day with another loss."
 		},
 		{
 			"animation": "[Default]",
@@ -62,49 +62,49 @@
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "¿Tiene tinto?"
+			"text": "You have some coffee?"
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Buenas tardes señorita."
+			"portrait": "Surprised",
+			"text": "Good day to you, ma'am."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "¿Tiene o no tiene tinto?"
+			"text": "As in coffee. You have it, or you don't?"
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Claro que tengo tinto señorita."
+			"text": "Ahem. Of course I do, ma'am."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "Véndame uno."
+			"text": "Sell me one."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "¿Cómo lo quiere?"
+			"text": "How do you like it?"
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oscuro y con azúcar."
+			"text": "Dark. With sugar."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Ya se lo preparo."
+			"text": "I'm on it."
 		},
 		{
 			"animation": "5-fade_out_down.gd",
@@ -159,13 +159,13 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Aquí tiene."
+			"text": "Here you go."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Gracias."
+			"text": "Thanks."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -177,13 +177,13 @@
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Marta se quedó mirando a Leyla, como hipnotizada.\nHabía heredado los poderes de clarividencia de su madre.\nPero lo mantenía en secreto, pues los videntes, por órdenes del gobierno, eran expulsados en muchos lugares.\nAlgo perturbaba a su clienta. Y ella podía ver qué era."
+			"text": "Marta fixated her gaze on Leyla, as if hypnotized.\nHer mother's clairvoyance had passed down to her.\nBut it was a well-kept secret. Government orders made it that way.\nEither that or, she'd find herself without a home again."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "¿Qué me mira?"
+			"text": "Something on my face?"
 		},
 		{
 			"character": "character-1648605405.json",
@@ -192,10 +192,10 @@
 
 			],
 			"portrait": "Default",
-			"question": "Si me lo permite..."
+			"question": "If I may..."
 		},
 		{
-			"choice": "Arriesgarse a contar la visión a Leyla",
+			"choice": "Risk telling Leyla about her vision",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -206,7 +206,7 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "Conversar más para ganar confianza",
+			"choice": "Talk some more to build trust",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",

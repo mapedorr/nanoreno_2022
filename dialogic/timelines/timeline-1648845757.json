@@ -4,7 +4,7 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "Hay un hombre muy poderoso.\nÉl la mira desde arriba, como si tuviera el control.\nY usted sabe que él pronto hará algo malo.\nAlgo que, de llegar a conocerse, los perjudicaría enormemente."
+			"text": "There is a very powerful man.\nHe is staring at you from above, as if he wields control.\nAnd you know he's about to do something evil.\nSomething that, if known, will harm them greatly. "
 		},
 		{
 			"animation": "heartbeat.gd",
@@ -32,55 +32,72 @@
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leyla trataba de ocultar su expresión de asombro, pero le era sumamente difícil teniendo en cuenta la cantidad de precisiones que mencionaba la vidente."
+			"text": "Leyla tried to hide her suprise, but it was proving difficult. She was precise."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "El lazo que les une es fuerte.\nTan fuerte que ha logrado mantenerse a través del tiempo. Una y otra vez han estado juntos. Y él siempre ha tenido más poder. Y usted siempre le ha seguido."
+			"text": "The bond that binds you is strong.\nSo strong that it has endured time. Once and again you've managed to stay together. And he has always had more power. And you have always followed."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Por otro lado, si no cuenta lo que sabe, muchas personas se verán afectadas.\nY eso es lo que he visto a través de la nube negra en su cabeza."
-		},
-		{
-			"character": "character-1648605405.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Si usted quiere, puedo darle algo que le permitirá hacer un viaje al pasado.\nEstoy segura de que conocerlo le servirá."
-		},
-		{
-			"character": "character-1648523040.json",
-			"event_id": "dialogic_001",
-			"portrait": "Angry",
-			"text": "¡Claro! Ahí está el truco, ¿no?\nEso es lo que realmente querías. Venderme algo."
-		},
-		{
-			"character": "character-1648605405.json",
-			"event_id": "dialogic_001",
-			"portrait": "Surprised",
-			"text": "Yo no le estoy pidiendo dinero, ni lo haré.\nSiempre que pueda ayudar a alguien lo haré.\nPero si no quiere mi ayuda, no insistiré."
+			"text": "On another note, if you don't say what you know, many will be affected."
 		},
 		{
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leyla, como acorralada, vio aquella situación como una oportunidad para aclarar su mente... tal vez para dejar de sufrir por aquellos pensamientos."
+			"text": "Marta was thinking about herself and others with similar styles of life."
 		},
 		{
-			"character": "character-1648523040.json",
+			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Está bien. ¿De qué se trata?"
+			"portrait": "Sad",
+			"text": "That's what the dark cloud over your head has shown me."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Es una bebida. La traeré enseguida."
+			"text": "If you so wish, I have something that could take you to where it all started. A trip to the past.\nI'm sure meeting him will help."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Angry",
+			"text": "Ok! That's the trick isn't it?\nThat's what you always wanted. Sell something to me."
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Surprised",
+			"text": "I'm not asking for money, nor will I later.\nIf helping someone is within my power, I will do so.\nBut if you don't need my help, I won't insist."
+		},
+		{
+			"character": "character-1648721680.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leyla, feeling cornered, witnessed the situation as an opportunity to clear her mind...\nMaybe to stop the suffering those thoughts brought her."
+		},
+		{
+			"character": "character-1648523040.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Fine. What is it?"
+		},
+		{
+			"character": "character-1648605405.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "A drink.\nI will bring it shortly."
 		},
 		{
 			"animation": "5-fade_out_down.gd",
@@ -134,7 +151,7 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Aquí está. Bébala lentamente.\nYo también beberé, pues sólo así podrá conectarse con el pasado."
+			"text": "Here it is. Drink it slowly.\nLet me guide you to the past. Remember, we have to drink it slowly."
 		},
 		{
 			"event_id": "dialogic_022",

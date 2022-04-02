@@ -49,37 +49,37 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "Supe quién eras desde que te acercaste a mi negocio."
+			"text": "I knew who you were before you approached my shop."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "¿En otra vida fui la amante de mi padre? UAGH!"
+			"text": "Ugh, was I my father's lover from another life? Yuck."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "¡No, estúpida! Entonces eran otros.\nUstedes me asesinaron en otra vida, y en esta, tu padre fue el culpable de la muerte de mi hermano, mi madre y mi padre.\nSabes que lo que él quiere hacer nos perjudicará enormemente, y aún así tu egoísmo y la imposibilidad de dejar tu estilo de vida te hacen dudar acerca de si deberías o no contarlo al mundo."
+			"text": "No, you dumbass! They were other people then.\nYou... You both killed me in that other life, and in this one, your father murdered my brother, my father and my mother.\nYou know that what he's got planned will do more than harm to everyone, yet, in your selfishness and in your spoils, you still hesitate about making this known."
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "¡Es mi padre!"
+			"text": "He's my father!"
 		},
 		{
 			"character": "character-1648523040.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Si cuento lo que sé no sólo lo perderemos todo, sino que también irá a la cárcel."
+			"text": "If I tell on him, not only we would lose everything, he'll go to jail too."
 		},
 		{
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "¡Él debería estar preso por lo que le hizo a Sagrado y otros pueblos!"
+			"text": "That's where he should be! For what he did to Sagrado and the rest!"
 		},
 		{
 			"character": "character-1648523040.json",
@@ -91,7 +91,7 @@
 			"character": "character-1648605405.json",
 			"event_id": "dialogic_001",
 			"portrait": "Evil",
-			"text": "Aquí estás. Aún incapaz de moverte por el efecto secundario de lo que te di a beber.\nPodría acabar con tu vida y así vengar la muerte de mi familia. Que tu padre sepa cómo se siente perder a alguien.\nPodría acabar con tu vida y cumplir así la promesa que hizo Isabela... la promesa que hice en mi otra vida.\nDurante varias vidas nos hemos destruido. ¿Por qué no poner otro eslabón a la cadena, cierto?"
+			"text": "Here you are. Unable to move. Was the drug too hard? It was the plan anyway.\nI could end your life... And avenge my family. Let your father know what it feels to lose someone.\nI could end it, and fulfil the promise Isabela made... That I made in my previous life. \nOver hundreds of lives we've destroyed ourselves. Why could we not add fuel to that fire?"
 		},
 		{
 			"character": "",
@@ -103,7 +103,7 @@
 			"question": ""
 		},
 		{
-			"choice": "Asesinar a Leyla",
+			"choice": "Kill Leyla",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -114,7 +114,7 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "Dejar vivir a Leyla",
+			"choice": "Let Leyla live",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",

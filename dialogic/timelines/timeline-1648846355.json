@@ -29,7 +29,7 @@
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Me encanta esta calle.\nTodas las casas quedaron tan preciosas.\n¿Tú que opinas Carmen?"
+			"text": "I cherish this street.\nEvery house stands preciously.\nA penny for your thoughts, Carmen?"
 		},
 		{
 			"animation": "[Default]",
@@ -52,40 +52,40 @@
 			"z_index": 0
 		},
 		{
-			"character": "character-1648605521.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Sí, mi señora. Lo es."
-		},
-		{
 			"character": "character-1648721680.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ahora era Carmen, no Leyla."
+			"text": "Now she was Carmen, not Leyla."
+		},
+		{
+			"character": "character-1648605521.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, milady. They do."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "Mi padre trabajó como albañil en algunas de ellas."
+			"text": "My father worked as a mason on some of those."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "No me digas. ¡Este mundo es tan pequeño!\nMi padre, que en paz descanse, fue uno de los socios que financió la construcción de este barrio y muchos otros en el pueblo."
+			"text": "You don't say. Such a small world!\nMy father, God rest his soul, was, incidentally, a partner of those who financed this neighbourhood. And many others around town."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Entonces mi padre le sirvió al suyo... tal como yo le sirvo a usted."
+			"text": "Then my father served under yours, my Lady... as I do under you."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Así es Carmen. Así es.\nEste mundo es tan pequeño."
+			"text": "That is correct, Carmen, correct.\nThis is a small world, indeed."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -97,103 +97,103 @@
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Señora Isabela."
+			"text": "Lady Isabela."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "¿Si?"
+			"text": "Yes?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Es que..."
+			"text": "I..."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "¿Qué pasa Carmen?"
+			"text": "What is it, Carmen?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Me da tanta vergüenza."
+			"text": "I am ashamed, your grace."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Sabes que a pesar de servirme puedes contar conmigo. Siempre ha sido así."
+			"text": "You may be my servant, but I will not hinder your voice when in need. It has never been so."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Es que se trata otra vez de mi hermano."
+			"text": "My brother... It concerns my brother again."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "¿Le ha pasado algo?"
+			"text": "Has something happened to him?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No aún, pero le pasará si no hago algo. Ha tenido problemas con unos matones y ahora juraron que le matarían si no les paga lo que perdió en una apuesta."
+			"text": "Nothing as of yet, your grace, but something is bound to. Trouble with some rescals has surfaced, and now they have sworn to kill him if he does not pay what owed in a gamble."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Y quieres que te preste dinero para pagar la deuda y salvarle la vida, ¿es eso Carmen?"
+			"text": "And you are requesting my aid in settling his debt and saving his life, Carmen. Am I on the wrong?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Sí mi señora.\nMe da tantísima vergüenza... no se imagina cómo me siento. Quisiera que la tierra me trague ahora mismo."
+			"text": "No, my Lady, it's correct.\nI feel so abashed... you cannot imagine how much. If the earth could swallow me whole, I would wish it with no remorse."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Jajajaja. Qué cosas dices Carmen.\n¿Cuándo se cumple el plazo para hacer el pago?"
+			"text": "Shush those lips, Carmen.\nWhen is it due?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "En dos días señora."
+			"text": "Two days, milady."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "¿Y cómo lo harán?\nPorque supongo que no se lo darás a tu hermano para que él lo lleve."
+			"text": "How will it be done? I suppose the money will not fall unto your brother's hands for delivery?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "Claro que no.\nEl muy tonto seguro lo apostaría para intentar duplicarlo."
+			"text": "Of course not. The idiot would gamble it away!"
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "Eso pensé."
+			"text": "My thoughts exactly."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Angry",
-			"text": "Tendré que llevarlo al campo de uchuvas que queda a 30 minutos de la hacienda."
+			"text": "I will deliver it to the gooseberry field, thirthy minutes away from the estate."
 		},
 		{
 			"animation": "heartbeat.gd",
@@ -220,67 +220,67 @@
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Como ya te lo dije, eres la sirvienta en quien más confío... eres casi como una amiga."
+			"text": "As I said, you are the only one I trust. You are... nearly a friend to me."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Te ayudaré con una condición."
+			"text": "I will aid you on one condition."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Claro que sí, lo que usted diga."
+			"text": "Yes, my Lady, whatever you command."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "Yo te acompañaré y juntas entregaremos el dinero."
+			"text": "I will deliver it together with you."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "¡No, señora! ¡Es una locura! Podrían hacerle daño.\nCon esa gente nunca se sabe."
+			"text": "No, Madam! It would be madness! Harm could fall to you.\nYou never know with those people. "
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "No pasará nada. Le pediré a mi esposo que envíe a algunos de sus muchachos para que nos vigilen."
+			"text": "Nothing will go wrong. My husband can offer protection from them younger lads to watch over us."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "Últimamente he sentido que mi vida necesita emociones más fuertes... y esta podría ser la oportunidad."
+			"text": "I feel I need a thrill in my life. I will not ignore the chance God has given me."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Amenable",
-			"text": "Mataremos dos pájaros de un tiro."
+			"text": "Two birds with one stone, hm?"
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Surprised",
-			"text": "Pero mi señora..."
+			"text": "But, my Lady..."
 		},
 		{
 			"character": "character-1648605484.json",
 			"event_id": "dialogic_001",
 			"portrait": "Upset",
-			"text": "Esa es mi única condición."
+			"text": "This is my only condition."
 		},
 		{
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "...\nEstá bien. Si usted así lo quiere."
+			"text": "...\nIf you so wish to."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -292,7 +292,7 @@
 			"character": "character-1648605521.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sad",
-			"text": "No me alcanzará la vida para pagarle todo lo que ha hecho por mí."
+			"text": "My life won't suffice to pay the graces you've bestowed on me."
 		},
 		{
 			"event_id": "dialogic_022",

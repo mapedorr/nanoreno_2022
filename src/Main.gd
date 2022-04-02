@@ -7,11 +7,16 @@ const Constants := preload('Constants.gd')
 
 var _animating := false
 var _timelines_json := {}
+var _is_listening := false
 
 onready var _continue: TextureButton = find_node('Continue')
 onready var _label: Label = find_node('Label')
 onready var _next_indicator: TextureRect = find_node('NextIndicator')
 onready var _next_animation: AnimationPlayer = _next_indicator.get_node('AnimationPlayer')
+onready var _main_menu_anim: AnimationPlayer = $MainMenu/AnimationPlayer
+onready var _btn_play: Button = find_node('Play')
+onready var _btn_credits: Button = find_node('Credits')
+onready var _btn_back: Button = find_node('Back')
 
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Godot methods ░░░░
@@ -20,12 +25,15 @@ func _ready() -> void:
 	_label.modulate.a = 0.0
 	
 	_continue.connect('pressed', self, '_next_message')
+	_main_menu_anim.connect('animation_finished', self, '_on_animation_finished')
+	_btn_play.connect('pressed', self, '_show_intro')
+	_btn_credits.connect('pressed', self, '_show_credits')
+	_btn_back.connect('pressed', self, '_hide_credits')
 	
 #	yield(get_tree().create_timer(0.5), 'timeout')
 #	goto_timeline('Test', 'Test')
-	
-	yield(run(Constants.Intro), 'completed')
-	goto_timeline('Meeting', 'Past')
+
+	_main_menu_anim.play('ShowMainMenu')
 
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ public methods ░░░░
@@ -103,3 +111,29 @@ func _timeline_ended(timeline_json: String, next_timeline := '') -> void:
 		'Forgiveness':
 			yield(run(Constants.Leaving), 'completed')
 			# TODO: volver al menú principal
+
+
+func _on_animation_finished(_anim_name: String) -> void:
+	_is_listening = true
+
+
+func _show_intro() -> void:
+	if not _is_listening: return
+	
+	_main_menu_anim.play('HideMainMenu')
+	yield(_main_menu_anim, 'animation_finished')
+	
+	yield(run(Constants.Intro), 'completed')
+	goto_timeline('Meeting', 'Past')
+
+
+func _show_credits() -> void:
+	_is_listening = false
+	
+	_main_menu_anim.play('ShowCredits')
+
+
+func _hide_credits() -> void:
+	_is_listening = false
+	
+	_main_menu_anim.play_backwards('ShowCredits')
